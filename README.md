@@ -50,6 +50,3 @@ The network will be implemented and tested in stages. Configuration details, scr
 
 Connectivity, addressing, routing, name resolution, and access-control behaviour will be tested and documented after implementation.
 
-## Project Status
-
-In progress.
